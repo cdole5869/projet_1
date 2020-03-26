@@ -1,0 +1,76 @@
+.bordure{
+  border: 5px solid white;
+}
+.gauche{
+  background-color:  #4a4a4c;
+  width: 300px;
+  height: 1015px;
+  display: inline-block;
+  vertical-align: top;
+  text-align: left;
+}
+.droite{
+  background-color: #f8f8f8;
+  width: 750px;
+  height: 1015px;
+  display: inline-block;
+}
+.logo{
+  border-radius: 50%;
+  border: 10px solid white;
+  filter: grayscale(100%);
+  width: 150px;
+  height: 150px;
+}
+h3{
+  text-align: left;
+}
+.tel{
+  width: 30px;
+  height: 30px;
+  text-align: left;
+}
+.pingouin{
+  text-align: center;
+}
+.star{
+  padding-left: 65px;
+}
+.gauche{
+  color:white;
+}
+.name{
+  background-color: #f8f8f8;
+  width: 700px;
+  height: 80px;
+  display: inline-block;
+  padding-top: 100px;
+}
+.name2{
+  font-size: 45px;
+}
+
+.name3{
+  font-size: 45px;
+  color:#11a9f3;
+}
+.name4{
+  font-size: 15px;
+  color:#11a9f3;
+}
+.name5{
+  font-size: 15px;
+  color:black;
+}
+
+body{
+  font-family: 'Roboto', sans-serif;
+}
+.loupe{
+  width: 30px;
+  height: 30px;
+}
+.parasol{
+  width: 30px;
+  height: 30px;
+}
