@@ -69,8 +69,14 @@ body{
 .loupe{
   width: 30px;
   height: 30px;
+  border-radius: 50%;
+  background-color: blue;
 }
 .parasol{
   width: 30px;
   height: 30px;
+}
+.fas-umbrella-beach{
+  border-radius: 50%;
+  background-color: blue;
 }
